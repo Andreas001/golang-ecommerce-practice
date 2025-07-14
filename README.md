@@ -7,7 +7,7 @@ This is very simple and barebones ecommerce project made with the intention to g
 This project only consist of the feature
 - Creating users
 - Creating products
-- Creating an order of the products
+- Creating an order of the products with jwt token
 
 ## Authors
 
